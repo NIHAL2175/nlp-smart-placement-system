@@ -29,9 +29,3 @@ SmartCampus is an enterprise-grade Single Page Application that automates campus
 - **NLP Engine:** spaCy (en_core_web_sm)
 - **Logic Architecture:** Modular Python views
 
-## 👥 The Team
-| Name               | Role | Key Contributions |
-|:-------------------| :--- | :--- |
-| **Abhinav Nirwan** | **Systems Architect** | Master build engineering, NLP core, and system logic. |
-| **Aryan Kumar**    | **Associate Developer** | Project prototyping and functional system testing. |
-| **Manmohan Singh** | **Data Analyst** | Skills database curation and User Acceptance Testing (UAT). |
