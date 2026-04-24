@@ -1,7 +1,5 @@
 # SmartCampus: NLP-Driven Placement & Resume Matcher
 
-🚀 **[Experience the Live Platform Here](https://smartcampus-its.streamlit.app)**
-
 SmartCampus is an enterprise-grade Single Page Application that automates campus recruitment using O(1) mathematical Set Theory and Natural Language Processing...
 
 ## 🚀 Key Features
